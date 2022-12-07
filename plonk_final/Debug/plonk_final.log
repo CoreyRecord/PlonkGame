@@ -1,0 +1,153 @@
+﻿  ball.cpp
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(28,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(29,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(30,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(35,57): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(36,58): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(110,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(110,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(113,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(114,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(115,41): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(118,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(119,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\ball.cpp(119,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main_menu.cpp
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(15,21): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(16,21): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(18,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(18,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(24,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(24,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(27,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(28,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(29,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(29,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(31,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(32,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(32,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(35,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(36,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(37,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(37,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(39,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(40,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(40,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(43,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(44,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(45,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(45,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(47,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Corey\source\repos\plonk_final\plonk_final\main_menu.cpp(48,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  one_p_game.cpp
+C:\Users\Corey\source\repos\plonk_final\plonk_final\one_p_game.cpp(34,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\one_p_game.cpp(37,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  paddle_ai.cpp
+C:\Users\Corey\source\repos\plonk_final\plonk_final\paddle_ai.cpp(20,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\paddle_ai.cpp(29,44): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\paddle_ai.cpp(30,40): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  paddle_player.cpp
+C:\Users\Corey\source\repos\plonk_final\plonk_final\paddle_player.cpp(16,37): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\paddle_player.cpp(31,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\paddle_player.cpp(34,25): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  two_p_game.cpp
+C:\Users\Corey\source\repos\plonk_final\plonk_final\two_p_game.cpp(31,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Corey\source\repos\plonk_final\plonk_final\two_p_game.cpp(34,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  plonk_final.vcxproj -> C:\Users\Corey\source\repos\plonk_final\Debug\plonk_final.exe
